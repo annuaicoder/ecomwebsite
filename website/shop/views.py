@@ -2,6 +2,7 @@ from django.shortcuts import render,redirect
 from .models import Products,Order
 from django.core.paginator import Paginator
 from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.decorators import login_required
 # Create your views here.
  
 def index(request):
@@ -53,3 +54,8 @@ def Register(request):
     
     context = {"form": form}
     return render(request, "shop/register.html", context)
+
+
+@login_required(login_url="login")
+def Profile(request):
+    return render(request,"shop/profile.html")
