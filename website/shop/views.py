@@ -1,6 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 from .models import Products,Order
 from django.core.paginator import Paginator
+from django.contrib.auth.forms import UserCreationForm
 # Create your views here.
  
 def index(request):
@@ -38,3 +39,17 @@ def checkout(request):
         order.save()
  
     return render(request,'shop/checkout.html')
+
+
+#Authentication For E-commere
+def Register(request):
+    if request.method == "POST":
+        form = UserCreationForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect("login")
+    else:
+        form = UserCreationForm()
+    
+    context = {"form": form}
+    return render(request, "shop/register.html", context)
