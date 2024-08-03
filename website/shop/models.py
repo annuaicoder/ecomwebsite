@@ -26,3 +26,5 @@ class Order(models.Model):
     total = models.CharField(max_length=200)
  
  
+class Profile(models.Model):
+    image = models.CharField(max_length=800)

@@ -3,6 +3,8 @@ from .models import Products,Order
 from django.core.paginator import Paginator
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.decorators import login_required
+from . models import Profile
+
 # Create your views here.
  
 def index(request):
@@ -57,5 +59,9 @@ def Register(request):
 
 
 @login_required(login_url="login")
-def Profile(request):
-    return render(request,"shop/profile.html")
+def ProfileImage(request):
+    profile = Profile.objects.all()
+    context = {
+        "profile": profile,
+    }
+    return render(request, "shop/profile.html", context)
