@@ -9,6 +9,6 @@ urlpatterns = [
     path('<int:id>/',views.detail,name='detail'),
     path('checkout/',views.checkout,name='checkout'),
     path("register/",views.Register,name="register"),
-    path("login/",LoginView.as_view(template_name="base/login.html"),name="login"),
+    path("login/",LoginView.as_view(template_name="shop/login.html"),name="login"),
    
 ]
