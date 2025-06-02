@@ -1,0 +1,7 @@
+version: 2
+updates:
+  # Python (for Django backend)
+  - package-ecosystem: "pip"
+    directory: "/" # if requirements.txt is in root
+    schedule:
+      interval: "daily"
