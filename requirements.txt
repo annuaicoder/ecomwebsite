@@ -168,7 +168,7 @@ gruut-lang-es==2.0.0
 gruut-lang-fr==2.0.2
 gTTS==2.3.2
 gunicorn==21.2.0
-h11==0.14.0
+h11==0.16.0
 h2==3.2.0
 h5py==3.13.0
 heartpy==1.2.7
