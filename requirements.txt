@@ -317,7 +317,7 @@ pydantic-settings==2.5.2
 pydantic_core==2.23.4
 pydeck==0.9.1
 pydub==0.25.1
-pygame==2.4.0
+pygame==2.6.1
 PyGetWindow==0.0.9
 Pygments==2.15.1
 PyJWT==2.6.0
