@@ -338,7 +338,7 @@ pyobjc-framework-AppleScriptObjC==9.2
 pyobjc-framework-ApplicationServices==9.2
 pyobjc-framework-AppTrackingTransparency==9.2
 pyobjc-framework-AudioVideoBridging==9.2
-pyobjc-framework-AuthenticationServices==9.2
+pyobjc-framework-AuthenticationServices==11.0
 pyobjc-framework-AutomaticAssessmentConfiguration==9.2
 pyobjc-framework-Automator==9.2
 pyobjc-framework-AVFoundation==9.2
