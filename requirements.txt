@@ -152,7 +152,7 @@ google-crc32c==1.5.0
 google-generativeai==0.7.2
 google-pasta==0.2.0
 google-resumable-media==2.7.0
-googleapis-common-protos==1.59.1
+googleapis-common-protos==1.70.0
 googlemaps==4.10.0
 googletrans==3.0.0
 gradio==4.44.1
