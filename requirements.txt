@@ -382,7 +382,7 @@ pyobjc-framework-DVDPlayback==9.2
 pyobjc-framework-EventKit==9.2
 pyobjc-framework-ExceptionHandling==9.2
 pyobjc-framework-ExecutionPolicy==9.2
-pyobjc-framework-ExtensionKit==9.2
+pyobjc-framework-ExtensionKit==11.0
 pyobjc-framework-ExternalAccessory==9.2
 pyobjc-framework-FileProvider==9.2
 pyobjc-framework-FileProviderUI==9.2
