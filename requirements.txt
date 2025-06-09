@@ -421,7 +421,7 @@ pyobjc-framework-MediaToolbox==9.2
 pyobjc-framework-Metal==9.2
 pyobjc-framework-MetalFX==9.2
 pyobjc-framework-MetalKit==9.2
-pyobjc-framework-MetalPerformanceShaders==9.2
+pyobjc-framework-MetalPerformanceShaders==11.0
 pyobjc-framework-MetalPerformanceShadersGraph==9.2
 pyobjc-framework-MetricKit==9.2
 pyobjc-framework-MLCompute==9.2
