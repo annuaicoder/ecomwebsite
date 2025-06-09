@@ -555,7 +555,7 @@ sqlparse==0.5.0
 srt==3.5.3
 stack-data==0.6.2
 starlette==0.40.0
-streamlit==1.37.0
+streamlit==1.45.1
 sympy==1.12
 tenacity==8.5.0
 tensorboard==2.16.2
