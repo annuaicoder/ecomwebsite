@@ -371,7 +371,7 @@ pyobjc-framework-CoreServices==11.0
 pyobjc-framework-CoreSpotlight==9.2
 pyobjc-framework-CoreText==9.2
 pyobjc-framework-CoreWLAN==9.2
-pyobjc-framework-CryptoTokenKit==9.2
+pyobjc-framework-CryptoTokenKit==11.0
 pyobjc-framework-DataDetection==9.2
 pyobjc-framework-DeviceCheck==9.2
 pyobjc-framework-DictionaryServices==9.2
