@@ -205,7 +205,7 @@ jieba==0.42.1
 Jinja2==3.1.6
 joblib==1.2.0
 jsonlines==1.2.0
-jsonmerge==1.9.0
+jsonmerge==1.9.2
 jsonpatch==1.33
 jsonpointer==3.0.0
 jsonschema==4.17.3
