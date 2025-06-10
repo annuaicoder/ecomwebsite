@@ -619,5 +619,5 @@ youtube-dl==2021.12.17
 zipp==3.19.1
 zope.event==4.6
 zope.interface==7.2
-zope.proxy==5.2
+zope.proxy==6.1
 zstandard==0.23.0
