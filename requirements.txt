@@ -525,7 +525,7 @@ retina-face==0.0.17
 rfc3986==1.5.0
 rich==13.7.1
 rsa==4.9
-rubicon-objc==0.4.6
+rubicon-objc==0.5.1
 ruff==0.9.3
 safetensors==0.5.2
 scikit-image==0.21.0
