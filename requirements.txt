@@ -331,7 +331,7 @@ pyobjc-core==9.2
 pyobjc-framework-Accessibility==9.2
 pyobjc-framework-Accounts==9.2
 pyobjc-framework-AddressBook==9.2
-pyobjc-framework-AdServices==9.2
+pyobjc-framework-AdServices==11.0
 pyobjc-framework-AdSupport==9.2
 pyobjc-framework-AppleScriptKit==9.2
 pyobjc-framework-AppleScriptObjC==9.2
