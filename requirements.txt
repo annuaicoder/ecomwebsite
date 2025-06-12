@@ -477,7 +477,7 @@ pyobjc-framework-VideoToolbox==9.2
 pyobjc-framework-Virtualization==11.0
 pyobjc-framework-Vision==9.2
 pyobjc-framework-WebKit==9.2
-pyparsing==3.0.9
+pyparsing==3.2.3
 pyperclip==1.8.2
 pypi-publisher==0.0.4
 pypinyin==0.49.0
