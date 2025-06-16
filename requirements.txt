@@ -564,7 +564,7 @@ tensorboardX==2.6
 tensorflow==2.16.2
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.5.0
-threadpoolctl==3.1.0
+threadpoolctl==3.6.0
 tifffile==2023.4.12
 timeout-decorator==0.5.0
 tokenizers==0.13.3
