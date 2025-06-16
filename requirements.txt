@@ -462,7 +462,7 @@ pyobjc-framework-SharedWithYouCore==9.2
 pyobjc-framework-ShazamKit==9.2
 pyobjc-framework-Social==11.0
 pyobjc-framework-SoundAnalysis==11.0
-pyobjc-framework-Speech==9.2
+pyobjc-framework-Speech==11.1
 pyobjc-framework-SpriteKit==9.2
 pyobjc-framework-StoreKit==11.0
 pyobjc-framework-SyncServices==9.2
