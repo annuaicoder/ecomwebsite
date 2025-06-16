@@ -471,7 +471,7 @@ pyobjc-framework-SystemExtensions==9.2
 pyobjc-framework-ThreadNetwork==9.2
 pyobjc-framework-UniformTypeIdentifiers==9.2
 pyobjc-framework-UserNotifications==9.2
-pyobjc-framework-UserNotificationsUI==9.2
+pyobjc-framework-UserNotificationsUI==11.1
 pyobjc-framework-VideoSubscriberAccount==9.2
 pyobjc-framework-VideoToolbox==9.2
 pyobjc-framework-Virtualization==11.0
