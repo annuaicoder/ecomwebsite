@@ -230,7 +230,7 @@ lazy_loader==0.2
 Levenshtein==0.25.1
 libclang==18.1.1
 libretranslatepy==2.1.1
-librosa==0.10.0.post2
+librosa==0.11.0
 llvmlite==0.39.1
 lxml==4.9.3
 macholib @ file:///AppleInternal/Library/BuildRoots/bcce998f-ff34-11ef-9d34-f2a857e00a32/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
