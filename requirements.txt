@@ -391,7 +391,7 @@ pyobjc-framework-FSEvents==9.2
 pyobjc-framework-GameCenter==9.2
 pyobjc-framework-GameController==9.2
 pyobjc-framework-GameKit==9.2
-pyobjc-framework-GameplayKit==9.2
+pyobjc-framework-GameplayKit==11.1
 pyobjc-framework-HealthKit==9.2
 pyobjc-framework-ImageCaptureCore==9.2
 pyobjc-framework-IMServicePlugIn==9.2
