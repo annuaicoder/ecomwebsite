@@ -511,7 +511,7 @@ PyWavelets==1.4.1
 pywhatkit==5.4
 PyYAML==6.0.2
 pyzmq==25.1.0
-qrcode==7.4.2
+qrcode==8.2
 rapidfuzz==3.9.6
 react==4.3.0
 readme_renderer==44.0
