@@ -276,7 +276,7 @@ opt_einsum==3.4.0
 optional-django==0.3.0
 optree==0.14.1
 orjson==3.10.15
-packaging==23.2
+packaging==25.0
 Panda3D==1.10.13
 panda3d-gltf==0.15.0
 panda3d-simplepbr==0.10
