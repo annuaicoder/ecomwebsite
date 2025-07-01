@@ -593,7 +593,7 @@ tzlocal==4.3.1
 umap-learn==0.5.1
 unidic-lite==1.0.8
 uritemplate==4.1.1
-urllib3==2.4.0
+urllib3==2.5.0
 ursina==5.2.0
 UrsinaNetworking==2.1.4
 uvicorn==0.30.6
