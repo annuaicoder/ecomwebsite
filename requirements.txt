@@ -412,7 +412,7 @@ pyobjc-framework-libxpc==9.2
 pyobjc-framework-LinkPresentation==9.2
 pyobjc-framework-LocalAuthentication==9.2
 pyobjc-framework-LocalAuthenticationEmbeddedUI==9.2
-pyobjc-framework-MailKit==9.2
+pyobjc-framework-MailKit==11.1
 pyobjc-framework-MapKit==9.2
 pyobjc-framework-MediaAccessibility==9.2
 pyobjc-framework-MediaLibrary==11.0
