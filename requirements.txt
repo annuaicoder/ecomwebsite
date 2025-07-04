@@ -601,7 +601,7 @@ uvloop==0.20.0
 validators==0.35.0
 virtualenv==20.26.6
 vosk==0.3.44
-wandb==0.15.4
+wandb==0.21.0
 watchfiles==0.23.0
 wcwidth==0.2.6
 websockets==12.0
