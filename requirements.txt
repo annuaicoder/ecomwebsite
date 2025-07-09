@@ -35,7 +35,7 @@ bidict==0.23.1
 blinker==1.6.2
 bnnumerizer==0.0.2
 bnunicodenormalizer==0.1.1
-boltons==23.0.0
+boltons==25.0.0
 branca==0.6.0
 CacheControl==0.14.0
 cachelib==0.13.0
