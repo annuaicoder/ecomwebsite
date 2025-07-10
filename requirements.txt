@@ -281,7 +281,7 @@ Panda3D==1.10.13
 panda3d-gltf==0.15.0
 panda3d-simplepbr==0.10
 pandas==2.0.2
-parso==0.8.3
+parso==0.8.4
 passlib==1.7.4
 pathtools==0.1.2
 Pebble==5.1.1
