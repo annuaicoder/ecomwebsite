@@ -446,7 +446,7 @@ pyobjc-framework-Quartz==9.2
 pyobjc-framework-QuickLookThumbnailing==9.2
 pyobjc-framework-ReplayKit==9.2
 pyobjc-framework-SafariServices==9.2
-pyobjc-framework-SafetyKit==9.2
+pyobjc-framework-SafetyKit==11.1
 pyobjc-framework-SceneKit==9.2
 pyobjc-framework-ScreenCaptureKit==9.2
 pyobjc-framework-ScreenSaver==9.2
