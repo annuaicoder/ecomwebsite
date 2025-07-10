@@ -30,7 +30,7 @@ backports.tarfile==1.2.0
 bangla==0.0.2
 bard==0.1
 bcrypt==4.2.0
-beautifulsoup4==4.12.2
+beautifulsoup4==4.13.4
 bidict==0.23.1
 blinker==1.6.2
 bnnumerizer==0.0.2
