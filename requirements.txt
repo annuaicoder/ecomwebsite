@@ -108,7 +108,7 @@ ffmpeg-python==0.2.0
 ffmpy==0.6.0
 filelock==3.18.0
 fire==0.7.0
-firebase-admin==6.5.0
+firebase-admin==6.9.0
 Flask==2.3.2
 flask-cors==6.0.0
 Flask-Login==0.6.3
