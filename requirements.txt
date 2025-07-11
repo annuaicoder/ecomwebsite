@@ -453,7 +453,7 @@ pyobjc-framework-ScreenSaver==9.2
 pyobjc-framework-ScreenTime==9.2
 pyobjc-framework-ScriptingBridge==9.2
 pyobjc-framework-SearchKit==11.1
-pyobjc-framework-Security==9.2
+pyobjc-framework-Security==11.1
 pyobjc-framework-SecurityFoundation==9.2
 pyobjc-framework-SecurityInterface==9.2
 pyobjc-framework-ServiceManagement==9.2
