@@ -411,7 +411,7 @@ pyobjc-framework-libdispatch==9.2
 pyobjc-framework-libxpc==9.2
 pyobjc-framework-LinkPresentation==9.2
 pyobjc-framework-LocalAuthentication==9.2
-pyobjc-framework-LocalAuthenticationEmbeddedUI==9.2
+pyobjc-framework-LocalAuthenticationEmbeddedUI==11.1
 pyobjc-framework-MailKit==11.1
 pyobjc-framework-MapKit==11.1
 pyobjc-framework-MediaAccessibility==9.2
