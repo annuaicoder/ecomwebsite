@@ -396,7 +396,7 @@ pyobjc-framework-HealthKit==9.2
 pyobjc-framework-ImageCaptureCore==9.2
 pyobjc-framework-IMServicePlugIn==9.2
 pyobjc-framework-InputMethodKit==9.2
-pyobjc-framework-InstallerPlugins==9.2
+pyobjc-framework-InstallerPlugins==11.1
 pyobjc-framework-InstantMessage==9.2
 pyobjc-framework-Intents==9.2
 pyobjc-framework-IntentsUI==9.2
