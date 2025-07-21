@@ -439,7 +439,7 @@ pyobjc-framework-PassKit==9.2
 pyobjc-framework-PencilKit==9.2
 pyobjc-framework-PHASE==9.2
 pyobjc-framework-Photos==9.2
-pyobjc-framework-PhotosUI==11.0
+pyobjc-framework-PhotosUI==11.1
 pyobjc-framework-PreferencePanes==9.2
 pyobjc-framework-PushKit==9.2
 pyobjc-framework-Quartz==9.2
