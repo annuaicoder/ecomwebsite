@@ -243,7 +243,7 @@ mathparse==0.1.2
 matplotlib==3.9.4
 matplotlib-inline==0.1.6
 mdurl==0.1.2
-mecab-python3==1.0.5
+mecab-python3==1.0.10
 minecraft==0.1.2
 ml-dtypes==0.3.2
 more-itertools==10.4.0
