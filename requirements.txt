@@ -9,7 +9,7 @@ altair==5.5.0
 altgraph @ file:///AppleInternal/Library/BuildRoots/bcce998f-ff34-11ef-9d34-f2a857e00a32/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 anas==0.0.0.1
 annotated-types==0.6.0
-anyascii==0.3.2
+anyascii==0.3.3
 anyio==4.2.0
 appdirs==1.4.4
 appnope==0.1.3
