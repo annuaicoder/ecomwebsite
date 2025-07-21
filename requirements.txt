@@ -424,7 +424,7 @@ pyobjc-framework-MetalKit==9.2
 pyobjc-framework-MetalPerformanceShaders==11.0
 pyobjc-framework-MetalPerformanceShadersGraph==11.1
 pyobjc-framework-MetricKit==9.2
-pyobjc-framework-MLCompute==9.2
+pyobjc-framework-MLCompute==11.1
 pyobjc-framework-ModelIO==9.2
 pyobjc-framework-MultipeerConnectivity==11.0
 pyobjc-framework-NaturalLanguage==9.2
