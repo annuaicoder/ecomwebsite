@@ -40,7 +40,7 @@ branca==0.6.0
 CacheControl==0.14.0
 cachelib==0.13.0
 cachetools==5.3.1
-certifi==2025.4.26
+certifi==2025.7.14
 cffi==1.17.1
 chardet==3.0.4
 charset-normalizer==3.4.2
