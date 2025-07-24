@@ -350,7 +350,7 @@ pyobjc-framework-CalendarStore==9.2
 pyobjc-framework-CallKit==9.2
 pyobjc-framework-CFNetwork==9.2
 pyobjc-framework-ClassKit==9.2
-pyobjc-framework-CloudKit==9.2
+pyobjc-framework-CloudKit==11.1
 pyobjc-framework-Cocoa==9.2
 pyobjc-framework-Collaboration==11.1
 pyobjc-framework-ColorSync==9.2
