@@ -456,7 +456,7 @@ pyobjc-framework-SearchKit==11.1
 pyobjc-framework-Security==11.1
 pyobjc-framework-SecurityFoundation==9.2
 pyobjc-framework-SecurityInterface==9.2
-pyobjc-framework-ServiceManagement==9.2
+pyobjc-framework-ServiceManagement==11.1
 pyobjc-framework-SharedWithYou==9.2
 pyobjc-framework-SharedWithYouCore==9.2
 pyobjc-framework-ShazamKit==9.2
