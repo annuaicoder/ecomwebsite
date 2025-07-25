@@ -527,7 +527,7 @@ rich==13.7.1
 rsa==4.9
 rubicon-objc==0.5.1
 ruff==0.12.2
-safetensors==0.5.2
+safetensors==0.5.3
 scikit-image==0.21.0
 scikit-learn==1.5.1
 scipy==1.10.1
