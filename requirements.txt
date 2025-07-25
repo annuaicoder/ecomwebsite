@@ -401,7 +401,7 @@ pyobjc-framework-InstantMessage==9.2
 pyobjc-framework-Intents==9.2
 pyobjc-framework-IntentsUI==9.2
 pyobjc-framework-IOBluetooth==9.2
-pyobjc-framework-IOBluetoothUI==9.2
+pyobjc-framework-IOBluetoothUI==11.1
 pyobjc-framework-IOSurface==9.2
 pyobjc-framework-iTunesLibrary==11.1
 pyobjc-framework-KernelManagement==9.2
