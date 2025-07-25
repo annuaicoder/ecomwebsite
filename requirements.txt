@@ -286,7 +286,7 @@ passlib==1.7.4
 pathtools==0.1.2
 Pebble==5.1.1
 pexpect==4.8.0
-pg8000==1.31.2
+pg8000==1.31.4
 pickleshare==0.7.5
 Pillow==10.3.0
 Pint==0.24.4
