@@ -487,7 +487,7 @@ PyRect==0.2.0
 pyrsistent==0.19.3
 pysbd==0.3.4
 pyscreenshot==3.1
-PyScreeze==0.1.29
+PyScreeze==1.0.1
 PySocks==1.7.1
 pytest==8.3.3
 python-crfsuite==0.9.9
