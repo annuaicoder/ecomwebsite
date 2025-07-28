@@ -199,7 +199,7 @@ itsdangerous==2.1.2
 jamo==0.4.1
 jaraco.classes==3.4.0
 jaraco.context==6.0.1
-jaraco.functools==4.0.2
+jaraco.functools==4.2.1
 jedi==0.18.2
 jieba==0.42.1
 Jinja2==3.1.6
