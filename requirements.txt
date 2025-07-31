@@ -345,7 +345,7 @@ pyobjc-framework-AVFoundation==9.2
 pyobjc-framework-AVKit==9.2
 pyobjc-framework-AVRouting==9.2
 pyobjc-framework-BackgroundAssets==9.2
-pyobjc-framework-BusinessChat==9.2
+pyobjc-framework-BusinessChat==11.1
 pyobjc-framework-CalendarStore==9.2
 pyobjc-framework-CallKit==9.2
 pyobjc-framework-CFNetwork==9.2
