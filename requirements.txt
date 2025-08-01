@@ -490,7 +490,7 @@ pyscreenshot==3.1
 PyScreeze==1.0.1
 PySocks==1.7.1
 pytest==8.3.3
-python-crfsuite==0.9.9
+python-crfsuite==0.9.11
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-engineio==4.9.0
