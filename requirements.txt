@@ -42,7 +42,7 @@ cachelib==0.13.0
 cachetools==5.3.1
 certifi==2025.7.14
 cffi==1.17.1
-chardet==3.0.4
+chardet==5.2.0
 charset-normalizer==3.4.2
 ChatterBot==1.0.0
 chatterbot-corpus==1.2.2
