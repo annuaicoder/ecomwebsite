@@ -476,7 +476,7 @@ pyobjc-framework-VideoSubscriberAccount==9.2
 pyobjc-framework-VideoToolbox==9.2
 pyobjc-framework-Virtualization==11.0
 pyobjc-framework-Vision==9.2
-pyobjc-framework-WebKit==9.2
+pyobjc-framework-WebKit==11.1
 pyparsing==3.2.3
 pyperclip==1.8.2
 pypi-publisher==0.0.4
