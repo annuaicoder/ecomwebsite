@@ -405,7 +405,7 @@ pyobjc-framework-IOBluetoothUI==11.1
 pyobjc-framework-IOSurface==9.2
 pyobjc-framework-iTunesLibrary==11.1
 pyobjc-framework-KernelManagement==9.2
-pyobjc-framework-LatentSemanticMapping==9.2
+pyobjc-framework-LatentSemanticMapping==11.1
 pyobjc-framework-LaunchServices==9.2
 pyobjc-framework-libdispatch==9.2
 pyobjc-framework-libxpc==9.2
