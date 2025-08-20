@@ -69,7 +69,7 @@ deepface==0.0.93
 defusedxml==0.7.1
 Deprecated==1.2.14
 deprecation==2.1.0
-diffusers==0.32.2
+diffusers==0.34.0
 distlib==0.3.8
 distro==1.9.0
 dj-rest-auth==7.0.1
