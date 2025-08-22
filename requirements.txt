@@ -162,7 +162,7 @@ grpcio==1.74.0
 grpcio-status==1.54.2
 gruut==2.2.3
 gruut-ipa==0.13.0
-gruut-lang-de==2.0.0
+gruut-lang-de==2.0.1
 gruut-lang-en==2.0.0
 gruut-lang-es==2.0.0
 gruut-lang-fr==2.0.2
