@@ -415,7 +415,7 @@ pyobjc-framework-LocalAuthenticationEmbeddedUI==11.1
 pyobjc-framework-MailKit==11.1
 pyobjc-framework-MapKit==11.1
 pyobjc-framework-MediaAccessibility==9.2
-pyobjc-framework-MediaLibrary==11.0
+pyobjc-framework-MediaLibrary==11.1
 pyobjc-framework-MediaPlayer==9.2
 pyobjc-framework-MediaToolbox==11.0
 pyobjc-framework-Metal==9.2
