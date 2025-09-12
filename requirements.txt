@@ -332,7 +332,7 @@ pyobjc-framework-Accessibility==9.2
 pyobjc-framework-Accounts==9.2
 pyobjc-framework-AddressBook==9.2
 pyobjc-framework-AdServices==11.0
-pyobjc-framework-AdSupport==9.2
+pyobjc-framework-AdSupport==11.1
 pyobjc-framework-AppleScriptKit==9.2
 pyobjc-framework-AppleScriptObjC==11.1
 pyobjc-framework-ApplicationServices==9.2
