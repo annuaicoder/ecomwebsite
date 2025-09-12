@@ -407,7 +407,7 @@ pyobjc-framework-iTunesLibrary==11.1
 pyobjc-framework-KernelManagement==9.2
 pyobjc-framework-LatentSemanticMapping==11.1
 pyobjc-framework-LaunchServices==9.2
-pyobjc-framework-libdispatch==9.2
+pyobjc-framework-libdispatch==11.1
 pyobjc-framework-libxpc==9.2
 pyobjc-framework-LinkPresentation==9.2
 pyobjc-framework-LocalAuthentication==11.1
