@@ -101,7 +101,7 @@ executing==1.2.0
 faiss-cpu==1.7.4
 fastapi==0.112.2
 fastapi-cache==0.1.0
-fastapi-cli==0.0.5
+fastapi-cli==0.0.13
 fastapi-limiter==0.1.6
 fastapi_keycloak==1.0.11
 ffmpeg-python==0.2.0
