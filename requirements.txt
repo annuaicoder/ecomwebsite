@@ -23,7 +23,7 @@ asyncpg==0.29.0
 attrdict==2.0.1
 attrs==25.3.0
 audioread==3.0.1
-Authlib==1.6.0
+Authlib==1.6.4
 Babel==2.12.1
 backcall==0.2.0
 backports.tarfile==1.2.0
@@ -73,7 +73,7 @@ diffusers==0.35.1
 distlib==0.3.8
 distro==1.9.0
 dj-rest-auth==7.0.1
-Django==4.2.23
+Django==4.2.25
 django-allauth==0.61.1
 django-ckeditor==5.4.0
 django-cleanup==2.1.0
