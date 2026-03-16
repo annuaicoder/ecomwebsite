@@ -340,7 +340,7 @@ pyobjc-framework-AppTrackingTransparency==9.2
 pyobjc-framework-AudioVideoBridging==9.2
 pyobjc-framework-AuthenticationServices==11.0
 pyobjc-framework-AutomaticAssessmentConfiguration==9.2
-pyobjc-framework-Automator==9.2
+pyobjc-framework-Automator==12.1
 pyobjc-framework-AVFoundation==9.2
 pyobjc-framework-AVKit==9.2
 pyobjc-framework-AVRouting==9.2
