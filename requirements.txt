@@ -229,7 +229,7 @@ langsmith==0.3.38
 lazy_loader==0.2
 Levenshtein==0.25.1
 libclang==18.1.1
-libretranslatepy==2.1.1
+libretranslatepy==2.1.4
 librosa==0.11.0
 llvmlite==0.39.1
 lxml==4.9.3
