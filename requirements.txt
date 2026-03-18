@@ -124,7 +124,7 @@ freegames==2.5.3
 Frozen-Flask==0.18
 frozenlist==1.7.0
 fsspec==2025.5.1
-ftfy==6.1.1
+ftfy==6.3.1
 future @ file:///AppleInternal/Library/BuildRoots/bcce998f-ff34-11ef-9d34-f2a857e00a32/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 fuzzywuzzy==0.18.0
 g2pkk==0.1.2
