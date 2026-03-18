@@ -1,4 +1,4 @@
-🛒 EcomWebsite - @annuaicod
+🛒 EcomWebsite - @annuaicode
 ==============
 
 EcomWebsite is a full-stack e-commerce platform built with Django and a responsive HTML/CSS/JavaScript frontend. Features include product browsing, cart management, authentication, and order processing.
