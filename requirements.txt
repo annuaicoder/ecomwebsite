@@ -377,7 +377,7 @@ pyobjc-framework-DeviceCheck==9.2
 pyobjc-framework-DictionaryServices==9.2
 pyobjc-framework-DiscRecording==9.2
 pyobjc-framework-DiscRecordingUI==9.2
-pyobjc-framework-DiskArbitration==9.2
+pyobjc-framework-DiskArbitration==12.1
 pyobjc-framework-DVDPlayback==9.2
 pyobjc-framework-EventKit==9.2
 pyobjc-framework-ExceptionHandling==11.1
