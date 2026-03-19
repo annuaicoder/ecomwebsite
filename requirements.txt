@@ -369,7 +369,7 @@ pyobjc-framework-CoreML==9.2
 pyobjc-framework-CoreMotion==11.1
 pyobjc-framework-CoreServices==11.0
 pyobjc-framework-CoreSpotlight==9.2
-pyobjc-framework-CoreText==9.2
+pyobjc-framework-CoreText==12.1
 pyobjc-framework-CoreWLAN==9.2
 pyobjc-framework-CryptoTokenKit==11.0
 pyobjc-framework-DataDetection==9.2
