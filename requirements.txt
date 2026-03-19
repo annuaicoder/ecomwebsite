@@ -360,7 +360,7 @@ pyobjc-framework-CoreAudio==9.2
 pyobjc-framework-CoreAudioKit==9.2
 pyobjc-framework-CoreBluetooth==9.2
 pyobjc-framework-CoreData==9.2
-pyobjc-framework-CoreHaptics==9.2
+pyobjc-framework-CoreHaptics==12.1
 pyobjc-framework-CoreLocation==9.2
 pyobjc-framework-CoreMedia==11.0
 pyobjc-framework-CoreMediaIO==9.2
