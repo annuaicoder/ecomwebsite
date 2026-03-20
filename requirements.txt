@@ -321,7 +321,7 @@ pygame==2.6.1
 PyGetWindow==0.0.9
 Pygments==2.15.1
 PyJWT==2.6.0
-pymongo==4.6.3
+pymongo==4.16.0
 Pympler==1.1
 PyMsgBox==1.0.9
 PyMySQL==1.1.1
