@@ -419,7 +419,7 @@ pyobjc-framework-MediaLibrary==11.1
 pyobjc-framework-MediaPlayer==9.2
 pyobjc-framework-MediaToolbox==11.0
 pyobjc-framework-Metal==9.2
-pyobjc-framework-MetalFX==9.2
+pyobjc-framework-MetalFX==12.1
 pyobjc-framework-MetalKit==9.2
 pyobjc-framework-MetalPerformanceShaders==11.0
 pyobjc-framework-MetalPerformanceShadersGraph==11.1
